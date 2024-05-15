@@ -1,0 +1,38 @@
+body{
+    background-color: darkslateblue;
+    font-style: initial;
+    color: ivory;
+    display: grid;
+    justify-content: center;
+}
+
+#titulo-principal{
+text-align: center
+}
+
+#info-usuario{
+    display: grid;
+    justify-content: center;
+}
+
+#texto{
+min-width: 50vw;
+max-width: 50vw;
+min-height: 30vw;
+max-height: 30vw;
+}
+
+#formulario-contacto{
+    background-color: darkseagreen;
+    padding: 20px;
+    border: 5px ivory ;
+    display: grid;
+    justify-items: center;
+}
+#enviarformulario{
+    margin-top: 10px;
+    background-color: ivory;
+    width: 100px;
+
+
+}
